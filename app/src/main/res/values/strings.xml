@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpenseSplit</string>
+    <string name="welcome_msg">Welcome to ExpenseSplit</string>
+    <string name="start_btn_msg">Start</string>
+</resources>
